@@ -1,0 +1,10 @@
+Package: rashomonliteMartin
+Type: Package
+Title: 4 funcitons for rashomon algorithm
+Version: 0.1.0
+Author: Ryan Martin
+Maintainer: Ryan Martin <rmm0119@auburn.edu>
+Description: contains 4 functions for rashomon algorithm on binary datasets
+License: MIT
+Encoding: UTF-8
+LazyData: true
